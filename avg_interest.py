@@ -21,5 +21,5 @@ def main():
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: {} <input_csv>".format(__file__))
+        print("Usage: {} <input_path> <output_path>".format(__file__))
     main()
