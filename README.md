@@ -4,8 +4,9 @@
 ### Instructions
 
 (if pipenv not installed)
-pip install pipenv
+`pip install pipenv`
 
-pipenv run avg
+Otherwise run
+`pipenv run avg`
 
-will read data.csv and output the chart of means to output.csv and bargraph to output.png
+This will read data.csv and generates output.csv & output.png
